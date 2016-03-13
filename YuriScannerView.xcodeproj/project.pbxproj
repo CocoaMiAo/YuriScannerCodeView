@@ -21,6 +21,7 @@
 		8941D7D91C94651200C2CC92 /* scanLine@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8941D7CE1C94651200C2CC92 /* scanLine@3x.png */; };
 		8941D7DA1C94651200C2CC92 /* YuriAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8941D7D11C94651200C2CC92 /* YuriAlertView.m */; };
 		8941D7DB1C94651200C2CC92 /* YuriCodeScanView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8941D7D31C94651200C2CC92 /* YuriCodeScanView.m */; };
+		895054B91C953F6400F24A1C /* YuriCreateCodeImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 895054B81C953F6400F24A1C /* YuriCreateCodeImage.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,8 @@
 		8941D7D11C94651200C2CC92 /* YuriAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YuriAlertView.m; sourceTree = "<group>"; };
 		8941D7D21C94651200C2CC92 /* YuriCodeScanView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YuriCodeScanView.h; sourceTree = "<group>"; };
 		8941D7D31C94651200C2CC92 /* YuriCodeScanView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YuriCodeScanView.m; sourceTree = "<group>"; };
+		895054B71C953F6400F24A1C /* YuriCreateCodeImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YuriCreateCodeImage.h; sourceTree = "<group>"; };
+		895054B81C953F6400F24A1C /* YuriCreateCodeImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YuriCreateCodeImage.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				8941D7CF1C94651200C2CC92 /* YuriAlertView */,
 				8941D7D21C94651200C2CC92 /* YuriCodeScanView.h */,
 				8941D7D31C94651200C2CC92 /* YuriCodeScanView.m */,
+				895054B71C953F6400F24A1C /* YuriCreateCodeImage.h */,
+				895054B81C953F6400F24A1C /* YuriCreateCodeImage.m */,
 			);
 			path = YuriCodeScanView;
 			sourceTree = "<group>";
@@ -213,6 +218,7 @@
 				8941D7DA1C94651200C2CC92 /* YuriAlertView.m in Sources */,
 				8941D7DB1C94651200C2CC92 /* YuriCodeScanView.m in Sources */,
 				8941D7B21C9464F900C2CC92 /* main.m in Sources */,
+				895054B91C953F6400F24A1C /* YuriCreateCodeImage.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -361,6 +367,7 @@
 				8941D7C61C9464F900C2CC92 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

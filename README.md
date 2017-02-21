@@ -32,3 +32,4 @@ YuriScannerView 使用的是iOS原生系统的二维码扫描功能，使用方�
 ```Objective-c
     [scanView hidScanView];
 ```
+  
